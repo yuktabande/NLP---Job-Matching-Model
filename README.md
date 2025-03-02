@@ -51,5 +51,5 @@ This project is an **AI-driven Resume Parser and Job Matching System** that util
 - **User authentication system** for recruiters and job seekers.
 
 ## Contact
-For inquiries, reach out to **your-email@example.com** or open an issue in the repository.
+For inquiries, reach out to **yuktaabande@gmail.com** or open an issue in the repository.
 
