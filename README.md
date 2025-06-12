@@ -13,7 +13,7 @@ This project is an **AI-driven Resume Parser and Job Matching System** that util
 
 ## Tech Stack
 - **Backend**: Python, Flask
-- **Frontend**: React.js 
+- **Frontend**: HTML, CSS
 - **NLP Libraries**: SpaCy, NLTK
 - **File Handling**: PyMuPDF (fitz), pdfplumber (for PDF parsing)
 
