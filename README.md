@@ -6,15 +6,15 @@ This project is an **AI-driven Resume Parser and Job Matching System** that util
 ## Features
 - **Resume Parsing**: Extracts structured information (e.g., name, contact, skills, experience, education) from resumes.
 - **Job Description Analysis**: Identifies key requirements, skills, and responsibilities.
-- **Job-Resume Matching**: Uses **TF-IDF, BERT, or other NLP models** to compare resumes with job descriptions.
+- **Job-Resume Matching**: Uses **TF-IDF** to compare resumes with job descriptions.
 - **Soft Skills Analysis**: Identifies behavioral traits and communication skills mentioned in resumes.
 - **Frontend Interface**: Upload job descriptions and multiple resumes for analysis.
 - **Ranking System**: Outputs the best-matched resumes based on a similarity score.
 
 ## Tech Stack
-- **Backend**: Python, Flask/Django
-- **Frontend**: React.js (Optional: Tailwind CSS for styling)
-- **NLP Libraries**: SpaCy, NLTK, Transformers (BERT, SBERT)
+- **Backend**: Python, Flask
+- **Frontend**: React.js 
+- **NLP Libraries**: SpaCy, NLTK
 - **File Handling**: PyMuPDF (fitz), pdfplumber (for PDF parsing)
 
 ## Installation
